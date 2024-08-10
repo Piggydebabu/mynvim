@@ -10,7 +10,7 @@ neovim >= 0.10
 
 - Go
 - Markdown
-- React
+- c&cpp
 - Rust
 - Typescript
 
@@ -25,6 +25,4 @@ neovim >= 0.10
 
 第三次启动的时候，运行 `:LspInstall all` 和 `TSIntall all` 安装所有的代码高亮
 
-## codeium 使用
 
-命令行输入 `Codeium Auth`，会打开浏览器进行授权，将授权码复制到 nvim 中。
